@@ -5,6 +5,12 @@
 
 This is a Chat Bot using for company services
 
+## Images
+![Screenshot (39)](https://user-images.githubusercontent.com/84491967/167765460-e567a3cb-b547-44ef-b10a-8f35cb9d686e.png)
+
+![Screenshot (40)](https://user-images.githubusercontent.com/84491967/167765587-a6729275-7729-488a-9631-a0a9517781c3.png)
+
+
 ## Objective
 
 Create a Chat Bot for company service purposes. 
